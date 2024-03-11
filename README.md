@@ -11,8 +11,9 @@ Work in progress - description coming soon!
 ### Tech Used 
 - Express, MongoDB for backend and database
 - Front-end templating powered by ejs
-- NodeJS, npm, Git, GitHub
-- Node Packages: Webpack, Babel, MongoClient, Axios, assorted security-related packages
+- Chat powerered by socket.io
+- The usual suspects: NodeJS, npm, Git, GitHub
+- More Node Packages: Webpack, Babel, MongoClient, Axios, assorted security-related packages
 
 ### Features
 - Users can register, create/read/update delete their own posts
